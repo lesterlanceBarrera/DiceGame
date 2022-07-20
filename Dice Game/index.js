@@ -1,5 +1,5 @@
 //First Dice Image
-var randomNumber1 = Math.floor(Math.random() * 6) + 1; // generate random number from 1 - 6
+var randomNumber1 = Math.floor(Math.random() * 6) + 1; // generate random number from 1 - 6 
 
 var randomDiceImage = "dice" + randomNumber1 + ".png"; // generate dice(random number).png
 
